@@ -1,0 +1,66 @@
+[
+  {
+    "nombre": "Roy",
+    "precio": 350,
+    "imagen": "./imagenes/roy.jpg",
+    "fecha": "23 de noviembre de 2022",
+    "descripcion": "El primer álbum del cantante y productor mexicano Nsqk.",
+    "favorito": false
+  },
+  {
+    "nombre": "Obsession",
+    "precio": 550,
+    "imagen": "./imagenes/obsession.png",
+    "fecha": "27 de noviembre de 2019",
+    "descripcion": "Álbum promocionado con seis integrantes.",
+    "favorito": false
+  },
+  {
+    "nombre": "Undertale Complete OST Box Set",
+    "precio": 850,
+    "imagen": "./imagenes/undertale.jpg",
+    "fecha": "2020",
+    "descripcion": "Es una colección de vinilos (5 LP) de la banda sonora del videojuego Undertale",
+    "favorito": false
+  },
+  {
+    "nombre": "FAVOURITE WORST NIGHTMARE",
+    "precio": 650,
+    "imagen": "./imagenes/fav.jpg",
+    "fecha": " 18 de abril de 2007",
+    "descripcion": "Es el segundo álbum de estudio de Arctic Monkeys.",
+    "favorito": false
+  },
+  {
+    "nombre": "Oscuro Extasis",
+    "precio": 300,
+    "imagen": "./imagenes/oscuro.jpg",
+    "fecha": "18 de noviembre de 2021",
+    "descripcion": "OSCURO ÉXTASIS es el tercer álbum del rapero argentino WOS.",
+    "favorito": false
+  },
+  {
+    "nombre": "Aurora",
+    "precio": 500,
+    "imagen": "./imagenes/aurora.png",
+    "fecha": "11 de noviembre de 2021",
+    "descripcion": "Tercer álbum de estudio, que cuenta con 13 canciones.",
+    "favorito": false
+  },
+  {
+    "nombre": "1989",
+    "precio": 1000,
+    "imagen": "./imagenes/1989.png",
+    "fecha": "27 de octubre de 2014",
+    "descripcion": "Descubrir tu propia identidad y, como resultado, cobrar vida.",
+    "favorito": false
+  },
+  {
+    "nombre": "In Rainbows",
+    "precio": 400,
+    "imagen": "./imagenes/arcoiris.jpg",
+    "fecha": "10 de octubre de 2007",
+    "descripcion": "Explora la mortalidad, la fragilidad y la búsqueda obsesiva de algo inalcanzable.",
+    "favorito": false
+  }
+]
