@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>DiscoTK</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+  <ul>
+    <li><a href="index.html">Inicio</a></li>
+    <li><a href="nosotros.html">Nosotros</a></li>
+    <li><a href="favoritos.html">❤️</a></li>
+    <li><a href="login.html" id="loginm">Login</a></li>
+    <li id="icono-carrito">🛒</li>
+  </ul>
+</nav>
+
+<p id="informacion">
+  Venta de discos y vinilos al mejor precio.
+</p>
+
+<h1>Discos</h1>
+
+<div style="text-align:center; margin:20px;">
+  <button onclick="ordenarMenorMayor()">Precio mayor </button>
+  <button onclick="ordenarMayorMenor()">Precio menor</button>
+</div>
+
+<section id="carrito">
+  <ul id="lista-carrito"></ul>
+  <p id="total">Total: $0</p>
+  <button onclick="vaciarCarrito()">Vaciar carrito</button>
+</section>
+
+<section id="discos"></section>
+
+<footer id="footer">
+  © 2026 DiscoTK, Derechos reservados
+</footer>
+
+<script src="functions.js" defer></script>
+</body>
+</html>
