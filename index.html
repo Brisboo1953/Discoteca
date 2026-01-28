@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DiscoTK</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <nav>
+    <ul>
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="nosotros.html">Nosotros</a></li>
+      <li><a href="favoritos.html">❤️</a></li>
+      <li><a href="login.html" id="loginm">Login</a></li>
+      <li id="icono-carrito">🛒</li>
+    </ul>
+  </nav>
+
+  <p id="informacion">
+    Venta de discos y vinilos de artistas famosos alrededor del mundo al mejor precio.
+  </p>
+
+  <h1>Discos</h1>
+
+  <section id="carrito">
+    <ul id="lista-carrito"></ul>
+    <p id="total">Total: $0</p>
+    <button onclick="vaciarCarrito()">Vaciar carrito</button>
+  </section>
+
+  <section id="discos"> </section>
+
+  <footer id="footer">
+    © 2026 DiscoTK. Todos los derechos reservados.
+  </footer>
+
+  <script src="functions.js" defer></script>
+</body>
+</html>
