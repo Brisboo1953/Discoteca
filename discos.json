@@ -26,7 +26,7 @@
   {
     "nombre": "FAVOURITE WORST NIGHTMARE",
     "precio": 650,
-    "imagen": "./imagenes/fav.jpg",
+    "imagen": "./imagenes/arctic.jpg",
     "fecha": " 18 de abril de 2007",
     "descripcion": "Es el segundo álbum de estudio de Arctic Monkeys.",
     "favorito": false
@@ -64,3 +64,4 @@
     "favorito": false
   }
 ]
+
